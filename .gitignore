@@ -1,2 +1,2 @@
-# Visual Studio Code folder with relative path "COTS\.vscode"
-COTS/.vscode/
+# Ignore any Visual Studio Code folder within the project
+.vscode/
